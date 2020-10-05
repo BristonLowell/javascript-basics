@@ -11,4 +11,4 @@ function concat(str1, str2, seperator = " ") {
 // Write a function that will capitalize the letter at a given position and return it
 function capitalizer(str, position) {
   return str[position].toUpperCase()
-}
+} 
